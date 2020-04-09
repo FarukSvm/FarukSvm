@@ -1,0 +1,2 @@
+# FarukSvm
+Kısaca Fako
